@@ -248,6 +248,7 @@
 				389C374D1FB6C9D40079546A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
